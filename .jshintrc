@@ -1,0 +1,4 @@
+{
+  "mocha": true,
+  "globals": [ "module", "inject" ]
+}
